@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="depositNewForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewAccountPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="transferNewForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserNewInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="withdrawNewForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

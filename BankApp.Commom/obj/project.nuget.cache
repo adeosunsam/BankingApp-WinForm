@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cuQ1MOn2EbESfRhHCrRtrlGc9HWzaedEa8SSmeMHTJSQL0aV/u3MvlsKcz9JTSo4oei+WKAKEoQ9bzgiXBYwaA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\BANKAPPs\\BankApp.Commom\\BankApp.Commom.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Models is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Models supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Models",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

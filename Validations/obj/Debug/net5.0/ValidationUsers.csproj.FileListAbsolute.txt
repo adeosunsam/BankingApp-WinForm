@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\BANKAPPs\Validations\bin\Debug\net5.0\ValidationUsers.deps.json
+C:\Users\hp\source\repos\BANKAPPs\Validations\bin\Debug\net5.0\ValidationUsers.dll
+C:\Users\hp\source\repos\BANKAPPs\Validations\bin\Debug\net5.0\ref\ValidationUsers.dll
+C:\Users\hp\source\repos\BANKAPPs\Validations\bin\Debug\net5.0\ValidationUsers.pdb
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ValidationUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ValidationUsers.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ValidationUsers.AssemblyInfo.cs
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ValidationUsers.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ValidationUsers.dll
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ref\ValidationUsers.dll
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ValidationUsers.pdb
+C:\Users\hp\source\repos\BANKAPPs\Validations\obj\Debug\net5.0\ValidationUsers.csproj.AssemblyReference.cache
